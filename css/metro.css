@@ -47,8 +47,8 @@ and (max-width : 991px) {
     }
     
     .menu-item.responsive {
-        width: 49.5%;
-        float: left;
+        width: 100%;
+        float: center;
         margin-right: 3px;
     }
     
